@@ -27,7 +27,7 @@ Plugin 'davidhalter/jedi-vim'
 Plugin 'colors'
 
 call vundle#end()
-colorscheme Monokai
+colorscheme monokai
 filetype plugin indent on
 
 """"""""
